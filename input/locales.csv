@@ -1,0 +1,10 @@
+[PREFIX];[TITLE];[LANG] gl_GL;[LANG] en_EN;[LANG] pt_PT;[LANG] cs_CZ;[LANG] es_ES
+WEB;APP_NAME;UXÍA;UXÍA;UXÍA;UXÍA;UXÍA
+WEB;LOGIN;Iniciar sesión;Login;Iniciar sessão;Přihlášení;Iniciar sesión
+WEB;LOGOUT;Pechar sesión;Logout;Terminar sessão;Odhlásit se;Cerrar sesión
+WEB;SAVE;Gardar;Save;Guardar;Uložit;Guardar
+WEB;CANCEL;Cancelar;Cancel;Cancelar;Zrušit;Cancelar
+FDV;LOAD_ERROR;Erro ao cargar datos;Error loading data;Erro ao carregar dados;Chyba při načítání dat;Error al cargar datos
+IGV;NO_RESULTS;Sen resultados;No results;Sem resultados;Žádné výsledky;Sin resultados
+CV;VERTICAL;Vertical;Vertical;Vertical;Vertikální;Vertical
+CV;HORIZONTAL;Horizontal;Horizontal;Horizontal;Horizontální;Horizontal

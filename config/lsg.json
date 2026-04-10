@@ -1,0 +1,72 @@
+{
+    "settings": {
+        "languages": [
+            {
+                "code": "en_EN",
+                "fileName": "en_EN",
+                "name": "American English",
+                "summary": "Textos en inglés de UXÍA"
+            },
+            {
+                "code": "es_ES",
+                "fileName": "es_ES",
+                "name": "Spanish",
+                "summary": "Textos en español de UXÍA"
+            },
+            {
+                "code": "gl_GL",
+                "fileName": "gl_GL",
+                "name": "Galician",
+                "summary": "Textos en gallego de UXÍA"
+            },
+            {
+                "code": "cs_CZ",
+                "fileName": "cs_CZ",
+                "name": "Czech",
+                "summary": "Textos en checo de UXÍA"
+            },
+            {
+                "code": "pt_PT",
+                "fileName": "pt_PT",
+                "name": "Iberian Portuguese",
+                "summary": "Textos en portugués de UXÍA"
+            }
+        ],
+        "csvFile": {
+            "fileName": "locales",
+            "columnSeparator": ";",
+            "rowSeparator": "\n",
+            "prefixColumnTag": "PREFIX",
+            "titleColumnTag": "TITLE",
+            "languageColumnTag": "LANG"
+        },
+        "paths": {
+            "outputFolderPath": "./output",
+            "inputFolderPath": "./input"
+        },
+        "keysSheet": {
+            "sheetName": "locales_keys",
+            "generate": true,
+            "enumName": "LocaleText",
+            "enumSummary": "Enumerado con todas las claves de texto disponibles. Corresponden a un texto en cada una de las hojas de idiomas."
+        },
+        "localePrefixes": [
+            {
+                "prefix": "WEB",
+                "regionDescription": "Common Language texts"
+            },
+            {
+                "prefix": "FDV",
+                "regionDescription": "FlowDiagramViewer texts"
+            },
+            {
+                "prefix": "IGV",
+                "regionDescription": "InformationGroupViewer texts"
+            },
+            {
+                "prefix": "CV",
+                "regionDescription": "ChartViewer texts"
+            }
+        ]
+    }
+}
